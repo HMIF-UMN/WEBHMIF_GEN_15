@@ -241,7 +241,7 @@ We also have our Chiefs, Antonius Kevin (Gen 13), who always encourage and suppo
 ✨ Minor Changes:
 - Fix some minor bugs
 
-#### Version 1.5 (coming soon)
+### Version 1.5 (coming soon)
 🌟 Main Changes:
 - Language change into English
 - API proker
