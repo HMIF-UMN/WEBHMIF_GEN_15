@@ -1,0 +1,10 @@
+.Welcome-Background{
+    background-image: url('../../../../../public/PPIF/images/welcome/Selamat Datang IMG.png') ;
+    background-repeat: no-repeat;
+    background-color: black;
+}   
+@media screen and (min-width: 2000px){
+    .Welcome-Background{
+        background-size: cover;
+    }
+}

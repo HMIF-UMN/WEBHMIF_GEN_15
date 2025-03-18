@@ -1,0 +1,59 @@
+@font-face{
+  font-family: 'Kanit Light';
+  src:url('../font/kanit/Kanit-Light.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit';
+  src:url('../font/kanit/Kanit-Regular.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit Medium';
+  src:url('../font/kanit/Kanit-Medium.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit SemiBold';
+  src:url('../font/kanit/Kanit-SemiBold.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit Bold';
+  src:url('../font/kanit/Kanit-Bold.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit ExtraBold';
+  src:url('../font/kanit/Kanit-ExtraBold.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit Black';
+  src:url('../font/kanit/Kanit-Black.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Kanit Medium';
+  src:url('../font/kanit/Kanit-Medium.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Montserrat Bold';
+  src:url('../font/montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'WorkSans';
+  src:url('../font/worksans/WorkSans-Regular.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Tomorrow';
+  src:url('../font/tomorrow/Tomorrow-Medium.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'TungstenRounded';
+  src:url('../font/tungsten/TungstenRounded-Light.ttf') format('truetype');
+}
